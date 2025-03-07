@@ -12,15 +12,16 @@
 }
 #copyright{
 
-    font-size: 20px;
+    font-size: 15px;
     color: #000000;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
-
 #links
 {
     font-size: 20px;
     text-align:center;
+
 }
 
 #linkregistro
@@ -29,22 +30,22 @@
     text-align:left; 
 }
 
-.fonteletra
+.fontetextual 
 {
-    Font-family: Cambria, Georgia, serif;    
+
+    Font-family: Cambria, Georgia, serif;   
+    
 }
 
 .titulos
 {
     color: #247494;
+    font-size:30px
 }
-
 
 .textos
 {
-
     color: #000000;
-    Font-family: Cambria, Georgia, serif;
     font-size: 20px;    
 }
     
