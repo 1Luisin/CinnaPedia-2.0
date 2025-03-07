@@ -1,6 +1,6 @@
 #cordefundo
 {
-background-color: #bce4ec;    
+    background-color: #bce4ec;    
 }
 
 #logotipo
@@ -8,27 +8,43 @@ background-color: #bce4ec;
     font-style: Georgia;
     color: #247494;
     font-size: 35px;
+    text-align: left;
+}
+#copyright{
+
+    font-size: 20px;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
- .links
+#links
 {
+    font-size: 20px;
+    text-align:center;
+}
 
-font-size: 20px
-
+#linkregistro
+{
+    font-size: 20px;
+    text-align:left; 
 }
 
 .fonteletra
 {
-    Font-family: Cambria, Georgia, serif;
-    
+    Font-family: Cambria, Georgia, serif;    
 }
-
-
 
 .titulos
 {
-color: #247494;
-
+    color: #247494;
 }
 
+
+.textos
+{
+
+    color: #000000;
+    Font-family: Cambria, Georgia, serif;
+    font-size: 20px;    
+}
     
