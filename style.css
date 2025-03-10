@@ -21,20 +21,19 @@
 {
     font-size: 20px;
     text-align:center;
-
+    color: #247494;
 }
 
 #linkregistro
 {
     font-size: 20px;
     text-align:left; 
+    color: #247494;
 }
 
 .fontetextual 
 {
-
     Font-family: Cambria, Georgia, serif;   
-    
 }
 
 .titulos
