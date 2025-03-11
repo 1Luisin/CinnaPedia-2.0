@@ -31,6 +31,13 @@
     color: #247494;
 }
 
+#bordaimagem
+{
+    border-style: solid;
+    border-color: #247494;
+    border-width: 3px;
+}
+
 .fontetextual 
 {
     Font-family: Cambria, Georgia, serif;   
@@ -46,12 +53,15 @@
 {
     color: #000000;
     font-size: 20px;    
+    text-align: justify;
+
 }
     
+.fundotexto{
 
-#bordaimagem
-{
-    border-style: solid;
-    border-color: #247494;
-    border-width: 3px;
+    background-color: aliceblue;
 }
+
+
+
+
