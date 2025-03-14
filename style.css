@@ -45,6 +45,7 @@
 
 .titulos
 {
+    font-family: 'Courier New', Courier, monospace;
     color: #247494;
     font-size:30px
 }
@@ -52,7 +53,7 @@
 .textos
 {
     color: #000000;
-    font-size: 20px;    
+    font-size: 18px;    
     text-align: justify;
 
 }
@@ -62,6 +63,11 @@
     background-color: aliceblue;
 }
 
-
+.caixatextual
+{
+border: #247494;
+border-style:dotted;
+border-width: 5px;
+}
 
 
