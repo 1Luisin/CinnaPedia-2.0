@@ -1,80 +1,63 @@
-.body
-{
-
-text-align: center;
-background-color: white;
-margin-left: 10%;
-margin-right: 10%;
-border-style:solid;
-border-color:#247494;
-border-radius: 0.9%;
-
+.body {
+  text-align: center;
+  background-color: white;
+  margin-left: 10%;
+  margin-right: 10%;
+  border-style: solid;
+  border-color: #247494;
+  border-radius: 0.9%;
 }
 
-
-
-#cordefundo
-{
-    background-color: #bce4ec;    
+#cordefundo {
+  background-color: #bce4ec;
 }
 
-#links
-{
-    font-size: 20px;
-    text-align:center;
-    color: #247494;
+#links {
+  font-size: 20px;
+  text-align: center;
+  color: #247494;
 }
 
-#logotipo
-{
-    font-style: Georgia;
-    color: #247494;
-    font-size: 35px;
-    text-align: left;
+#logotipo {
+  font-style: Georgia;
+  color: #247494;
+  font-size: 35px;
+  text-align: left;
 }
 
-#linkregistro
-{
-    font-size: 20px;
-    text-align:left; 
-    color: #247494;
+#linkregistro {
+  font-size: 20px;
+  text-align: left;
+  color: #247494;
 }
 
-#bordaimagem
-{
-    border-style: solid;
-    border-color: #247494;
-    border-width: 3px;
+#imagem {
+  border-style: solid;
+  border-color: #247494;
+  border-width: 3px;
 }
 
-
-.titulos
-{
-    font-family: 'Courier New', Courier, monospace;
-    color: #247494;
-    font-size:30px
+.titulos {
+  font-family: "Courier New", Courier, monospace;
+  color: #247494;
+  font-size: 30px;
 }
 
-.textos
-{
-    color: #000000;
-    font-size: 18px;    
-    Font-family: Cambria, Georgia, serif; 
-}
-    
-
-.caixatextual
-{
-border: #247494;
-border-style:dotted;
-border-width: 5px;
+.textos {
+  color: #000000;
+  font-size: 18px;
+  font-family: Cambria, Georgia, serif;
 }
 
+.caixatextual {
+  border: #247494;
+  border-style: solid;
+  border-width: 2px;
+}
 
-#copyright{
-
-    font-size: 15px;
-    color: #000000;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-    }
+#copyright {
+  font-size: 15px;
+  color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
